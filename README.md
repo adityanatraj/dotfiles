@@ -15,7 +15,7 @@ Steps:
 1. install GNU Stow
 2. clone the repo
 3. `cd` into the repo
-4. run `stow -t ~ [name]` for each "rc" set you want (eg. `stow zsh`)
+4. run `stow -t ~ [name]` for each "rc" set you want (eg. `stow -t ~ zsh`)
 
 # License
 
