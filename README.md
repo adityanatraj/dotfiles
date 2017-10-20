@@ -9,18 +9,15 @@ What you'll find inside:
   - vimrc : it's super simple - numbering, colors, jk for ESC
   - zsh : again super simple - a PS, autocomplete, activate for python, PATH stuff
 
-
 ## installation
 
 Steps:
 1. install GNU Stow
 2. clone the repo
 3. `cd` into the repo
-4. run `stow [name]` for each "rc" set you want (eg. `stow zsh`)
-
+4. run `stow -t ~ [name]` for each "rc" set you want (eg. `stow zsh`)
 
 # License
 
 I'm not liable for anything you do with this.
-
 
